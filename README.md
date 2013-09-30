@@ -17,14 +17,23 @@ Command line arguments
 ----------------------
 
 --help (-h): Print help message
+
 --version (-v): Print program version
+
 --port (-p): Set connection port
+
 --key [key] (-k): Send key down command
+
 --standby (-s): Send TV to stand-by mode
+
 --volume [level] (-V): Set the volume level
+
 --channel [id] (-c): Set new channel
+
 --channellist (-l): Get channel list
+
 --source (-S) [name]: Set the input source
+
 
 positional option:
 Address of the tv
